@@ -12,14 +12,14 @@ import os
 # Stuff that can be / should be overridden in local settings
 
 # Redis serwer configuration
-REDIS_HOST = 'pub-redis-18247.eu-west-1-2.1.ec2.garantiadata.com:18247'
-REDIS_PORT = 18247
-REDIS_DB = redis-kpidashboard-7908189
+REDIS_HOST = 'ec2-54-217-206-72.eu-west-1.compute.amazonaws.com'
+REDIS_PORT = 15769
+REDIS_DB = redis-angular-35791
 
 DEBUG = False
 API_KEY = 'default api key'
-HOST = 'pub-redis-18247.eu-west-1-2.1.ec2.garantiadata.com:18247'
-PORT = 18247
+HOST = 'redis://h:pniju36u2ea8q2462sl2qjeda6@ec2-54-217-206-72.eu-west-1.compute.amazonaws.com:15769'
+PORT = 15769
 PROJECT_NAME = 'kpidashboard'
 
 # Javascript log level ('1' for 'standard', '2' for 'debug')
