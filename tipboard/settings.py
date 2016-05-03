@@ -17,7 +17,7 @@ REDIS_PORT = 15769
 REDIS_DB = redis-angular-35791
 
 DEBUG = False
-API_KEY = 'default api key'
+API_KEY = 'pniju36u2ea8q2462sl2qjeda6'
 HOST = 'redis://h:pniju36u2ea8q2462sl2qjeda6@ec2-54-217-206-72.eu-west-1.compute.amazonaws.com:15769'
 PORT = 15769
 PROJECT_NAME = 'kpidashboard'
