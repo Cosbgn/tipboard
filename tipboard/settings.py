@@ -12,7 +12,7 @@ import os
 # Stuff that can be / should be overridden in local settings
 
 # Redis serwer configuration
-REDIS_HOST = 'ec2-54-217-206-72.eu-west-1.compute.amazonaws.com'
+REDIS_HOST = 'redis://h:pniju36u2ea8q2462sl2qjeda6@ec2-54-217-206-72.eu-west-1.compute.amazonaws.com'
 REDIS_PORT = 15769
 REDIS_DB = redis-angular-35791
 
