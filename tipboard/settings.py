@@ -13,13 +13,13 @@ import os
 
 # Redis serwer configuration
 REDIS_HOST = 'ec2-54-217-206-72.eu-west-1.compute.amazonaws.com'
-REDIS_PORT = 15759
-REDIS_DB = redis-flat-72007
+REDIS_PORT = 15769
+REDIS_DB = redis-angular-35791
 
 DEBUG = False
 API_KEY = 'default api key'
 HOST = 'ec2-54-217-206-72.eu-west-1.compute.amazonaws.com'
-PORT = 15759
+PORT = 15769
 PROJECT_NAME = 'kpidashboard'
 
 # Javascript log level ('1' for 'standard', '2' for 'debug')
